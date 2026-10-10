@@ -1,0 +1,13 @@
+prj1\foc.o: ..\Drivers\motor\foc.c
+prj1\foc.o: ..\Drivers\motor\foc.h
+prj1\foc.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+prj1\foc.o: ../Drivers/CMSIS/Include/core_cm3.h
+prj1\foc.o: D:\WORKSOFT\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+prj1\foc.o: ../Drivers/CMSIS/Include/cmsis_version.h
+prj1\foc.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+prj1\foc.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+prj1\foc.o: D:\WORKSOFT\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+prj1\foc.o: D:\WORKSOFT\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+prj1\foc.o: ..\Drivers\motor\motor_runtime_param.h
+prj1\foc.o: ..\Drivers\motor\conf.h
+prj1\foc.o: D:\WORKSOFT\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
